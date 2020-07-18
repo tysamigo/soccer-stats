@@ -1,0 +1,13 @@
+C:\Users\AsuS\source\project-csharp-soccer-stats\bin\Debug\netcoreapp3.1\project-csharp-soccer-stats.exe
+C:\Users\AsuS\source\project-csharp-soccer-stats\bin\Debug\netcoreapp3.1\project-csharp-soccer-stats.deps.json
+C:\Users\AsuS\source\project-csharp-soccer-stats\bin\Debug\netcoreapp3.1\project-csharp-soccer-stats.runtimeconfig.json
+C:\Users\AsuS\source\project-csharp-soccer-stats\bin\Debug\netcoreapp3.1\project-csharp-soccer-stats.runtimeconfig.dev.json
+C:\Users\AsuS\source\project-csharp-soccer-stats\bin\Debug\netcoreapp3.1\project-csharp-soccer-stats.dll
+C:\Users\AsuS\source\project-csharp-soccer-stats\bin\Debug\netcoreapp3.1\project-csharp-soccer-stats.pdb
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.csprojAssemblyReference.cache
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.AssemblyInfoInputs.cache
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.AssemblyInfo.cs
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.csproj.CoreCompileInputs.cache
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.dll
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.pdb
+C:\Users\AsuS\source\project-csharp-soccer-stats\obj\Debug\netcoreapp3.1\project-csharp-soccer-stats.genruntimeconfig.cache
